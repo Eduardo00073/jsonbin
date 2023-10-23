@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "tipo": "Notebook",
+      "nome": "SuperNote 3000",
+      "preço": "R$ 100,00",
+      "foto": "https://images.kabum.com.br/produtos/fotos/356530/notebook-samsung-intel-core-i5-1135g7-8gb-ram-ssd-256gb-15-6-full-hd-windows-11-home-cinza-np550xda-kh2br_1655749555_gg.jpg",
+      "descricao": "Notebook com processador de última geração, 16GB de RAM e SSD de 512GB."
+    },
+    {
+      "tipo": "Celular",
+      "nome": "MegaPhone X",
+      "preço": "R$ 100,00",
+      "foto": "https://images.kabum.com.br/produtos/fotos/435643/smartphone-samsung-galaxy-a54-5g-128gb-8gb-ram-octa-core-camera-tripla-de-50mp-tela-infinita-de-6-4-preto-sm-a546ezklzto_1678372969_gg.jpg",
+      "descricao": "Celular com tela de 6.5 polegadas, câmera de 48MP e bateria de longa duração."
+    },
+    {
+      "tipo": "Tablet",
+      "nome": "TabFast Pro",
+      "preço": "R$ 100,00",
+      "foto": "https://images.kabum.com.br/produtos/fotos/165062/tablet-samsung-galaxy-a7-lite-4g-32gb-android-11-tela-de-8-7-grafite-sm-t225nzapzto_1627997107_gg.jpg",
+      "descricao": "Tablet ideal para trabalho e lazer, com tela de alta resolução e armazenamento de 128GB."
+    }
+  ]
+}
